@@ -186,7 +186,7 @@ The https://spring.io/[spring.io] site contains several guides that show how to 
 * https://spring.io/guides/gs/actuator-service/[Building a RESTful Web Service with Spring Boot Actuator] is a guide to creating a REST web service and also shows how the server can be configured.
 
 
-
+==Thanks
 == License
 
 Spring Boot is Open Source software released under the https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
